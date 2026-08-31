@@ -206,9 +206,11 @@ images/
 
 # 📓 Jupyter Notebook
 
-The complete analysis was performed using a Jupyter Notebook.
+## 📓 Jupyter Notebook
 
-The notebook contains the data preparation, calculations, exploratory analysis, statistical analysis, and visualisations used throughout this project.
+The complete analysis, including data preparation, exploratory analysis, statistical analysis, and visualisations, is available in the project notebook:
+
+👉 [View the Bradford Weather Analysis Notebook](notebooks/bradford_weather_analysis.ipynb)
 
 ---
 
